@@ -75,5 +75,4 @@ AWS-3tier-Architecture/
 │   ├── monitoring-logging-apm.png
 │   ├── reverse-proxy-architecture.png
 │
-├── README.md                   # Project documentation
-└── test/                       # Test scripts for load testing
+└── README.md                   # Project documentation
